@@ -1,0 +1,16 @@
+{
+  "products": {
+    "title": "Products",
+    "filter": "Filter",
+    "apply": "Apply"
+  },
+  "filter": {
+    "searchInput": {
+      "label": "Product",
+      "placeholder": "Search.."
+    },
+    "searchCategory": {
+      "label": "Category"
+    }
+  }
+}

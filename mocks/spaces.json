@@ -1,0 +1,36 @@
+{
+  "spaces": [
+    {
+      "id": 1450,
+      "name": "ustretail",
+      "uid": "ustretail",
+      "uuid": "4d9f8c72-cdab-4dab-8216-f8dad5df721a",
+      "default_locale": "en",
+      "locales": [
+        "en"
+      ],
+      "team_review": false,
+      "created_at": "2023-11-22T16:44:20.000+02:00",
+      "content_types_count": 1,
+      "entries_count": 4,
+      "cors_enabled": false,
+      "cors_allow_all": false,
+      "cors_allowed_origins": null,
+      "approvals_quantity": 1,
+      "locked_review": false,
+      "enforced_review": false,
+      "enforce_all_review": false,
+      "enforced_reviewers_attributes": [],
+      "cache_max_age": 300,
+      "cache_enabled": false,
+      "show_author": true,
+      "realm_id": 628
+    }
+  ],
+  "meta": {
+    "total_entries": 1,
+    "per_page": 10,
+    "current_page": 1,
+    "total_pages": 1
+  }
+}

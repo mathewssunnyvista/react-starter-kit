@@ -1,0 +1,16 @@
+{
+  "products": {
+    "title": "منتجات",
+    "filter": "منقي",
+    "apply": "يتقدم"
+  },
+  "filter": {
+    "searchInput": {
+      "label": "منتجات",
+      "placeholder": "يبحث"
+    },
+    "searchCategory": {
+      "label": "فئة"
+    }
+  }
+}

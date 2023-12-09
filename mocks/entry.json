@@ -1,0 +1,114 @@
+{
+  "published": true,
+  "scheduled": false,
+  "published_at": "2023-12-05T22:33:03.000+02:00",
+  "unpublished_at": null,
+  "id": 134911,
+  "uuid": "6f16b99f-5d6b-4463-ac09-65a945ce86d6",
+  "space_id": 1450,
+  "name": "perfume Oil",
+  "content_type_id": 4025,
+  "type_name": "Products",
+  "user": {
+    "name": "Sunny Mathews",
+    "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+  },
+  "category_id": 5062,
+  "updated_at": "2023-12-05T22:33:03.000+02:00",
+  "tags": [],
+  "locale": "en",
+  "private": false,
+  "workflow": {
+    "id": 320341,
+    "current_state": "draft",
+    "approved": false,
+    "reviewing": false,
+    "editing": true,
+    "schedule": false,
+    "review_enabled": false,
+    "archived": false,
+    "application": {
+      "id": 1450,
+      "name": "ustretail",
+      "team_review": false,
+      "approvals_quantity": 1,
+      "locked_review": false,
+      "enforced_review": false,
+      "enforce_all_review": false,
+      "application_type": "space"
+    },
+    "author_id": 1499417,
+    "element_type": "entry"
+  },
+  "field_values": [
+    {
+      "id": 1911646,
+      "field_id": 20246,
+      "type": "text",
+      "value": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil"
+    },
+    {
+      "id": 1911647,
+      "field_id": 20245,
+      "type": "decimal",
+      "value": "34.0"
+    },
+    {
+      "id": 1911648,
+      "field_id": 20249,
+      "type": "asset",
+      "value": null
+    }
+  ],
+  "excerpt": "",
+  "targets": [],
+  "restriction_enabled": false,
+  "blocked": false,
+  "review_enabled": false,
+  "dirty": false,
+  "json": {
+    "meta": {
+      "uuid": "6f16b99f-5d6b-4463-ac09-65a945ce86d6",
+      "space": "ustretail",
+      "name": "perfume Oil",
+      "slug": "perfume-oil",
+      "type": "products",
+      "category": "perfumes",
+      "category_slug": "perfumes",
+      "category_name": "Perfumes",
+      "updated_at": "2023-12-05T22:33:03.000+02:00",
+      "created_at": "2023-12-05T22:31:54.000+02:00",
+      "published_at": "2023-12-05T22:33:03.000+02:00",
+      "unpublish_at": null,
+      "tags": [],
+      "available_locales": [
+        "en"
+      ],
+      "locale": "en",
+      "targets": [],
+      "private": false,
+      "version_type": "editable",
+      "author": {
+        "name": "Sunny Mathews",
+        "first_name": "Sunny",
+        "last_name": "Mathews",
+        "email": "sunny.mathews@ust.com",
+        "avatar": null
+      },
+      "excerpt": ""
+    },
+    "fields": {
+      "Description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "Image": {},
+      "Price": "34.0"
+    }
+  },
+  "status": "published",
+  "translated": true,
+  "type": "Content::Entry",
+  "slug": "perfume-oil",
+  "publish_at": null,
+  "unpublish_at": null,
+  "last_published_date": "2023-12-05T22:33:03.000+02:00",
+  "category_path": "perfumes"
+}

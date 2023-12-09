@@ -1,0 +1,1010 @@
+{
+    "entries": [
+        {
+            "id": 134914,
+            "uuid": "38838e11-cbcc-4e62-bd03-7033c1400a22",
+            "name": "iPhone 9",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "first_name": "Sunny",
+                "last_name": "Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": 5063,
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-05T22:33:38.000+02:00",
+            "unpublished_at": null,
+            "updated_at": "2023-12-05T22:33:38.000+02:00",
+            "tags": [],
+            "locale": "en",
+            "workflow": {
+                "id": 318272,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "dirty": false,
+            "status": "translate",
+            "translated": false,
+            "target_locale": "en",
+            "url": "https://ustretail.modyo.cloud/admin/content/spaces/ustretail/entries/38838e11-cbcc-4e62-bd03-7033c1400a22?target_locale=en",
+            "publish_at": null,
+            "unpublish_at": null,
+            "private": false,
+            "target_list": "--"
+        },
+        {
+            "id": 134913,
+            "uuid": "7ebf46b4-aef0-4586-b9ae-bc884206583f",
+            "name": "iPhone X",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "first_name": "Sunny",
+                "last_name": "Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": 5063,
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-05T22:33:26.000+02:00",
+            "unpublished_at": null,
+            "updated_at": "2023-12-05T22:33:26.000+02:00",
+            "tags": [],
+            "locale": "en",
+            "workflow": {
+                "id": 318155,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "dirty": false,
+            "status": "translate",
+            "translated": false,
+            "target_locale": "en",
+            "url": "https://ustretail.modyo.cloud/admin/content/spaces/ustretail/entries/7ebf46b4-aef0-4586-b9ae-bc884206583f?target_locale=en",
+            "publish_at": null,
+            "unpublish_at": null,
+            "private": false,
+            "target_list": "--"
+        },
+        {
+            "id": 134912,
+            "uuid": "41c00f2f-57fb-4a32-876b-fd5c7879ea47",
+            "name": "Samsung Universe 9",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "first_name": "Sunny",
+                "last_name": "Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": 5063,
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-05T22:33:16.000+02:00",
+            "unpublished_at": null,
+            "updated_at": "2023-12-05T22:33:16.000+02:00",
+            "tags": [],
+            "locale": "en",
+            "workflow": {
+                "id": 318218,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "dirty": false,
+            "status": "translate",
+            "translated": false,
+            "target_locale": "en",
+            "url": "https://ustretail.modyo.cloud/admin/content/spaces/ustretail/entries/41c00f2f-57fb-4a32-876b-fd5c7879ea47?target_locale=en",
+            "publish_at": null,
+            "unpublish_at": null,
+            "private": false,
+            "target_list": "--"
+        },
+        {
+            "id": 134911,
+            "uuid": "6f16b99f-5d6b-4463-ac09-65a945ce86d6",
+            "name": "perfume Oil",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "first_name": "Sunny",
+                "last_name": "Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": 5062,
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-05T22:33:03.000+02:00",
+            "unpublished_at": null,
+            "updated_at": "2023-12-05T22:33:03.000+02:00",
+            "tags": [],
+            "locale": "en",
+            "workflow": {
+                "id": 320341,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "dirty": false,
+            "status": "translate",
+            "translated": false,
+            "target_locale": "en",
+            "url": "https://ustretail.modyo.cloud/admin/content/spaces/ustretail/entries/6f16b99f-5d6b-4463-ac09-65a945ce86d6?target_locale=en",
+            "publish_at": null,
+            "unpublish_at": null,
+            "private": false,
+            "target_list": "--"
+        }
+    ],
+    "categories": [
+        {
+            "id": 5063,
+            "parent_id": null,
+            "name": "Mobile",
+            "slug": "mobile",
+            "children": [],
+            "full_path": "mobile",
+            "level": 0
+        },
+        {
+            "id": 5062,
+            "parent_id": null,
+            "name": "Perfumes",
+            "slug": "perfumes",
+            "children": [],
+            "full_path": "perfumes",
+            "level": 0
+        }
+    ],
+    "entry": [
+        {
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-07T10:24:35.000+02:00",
+            "unpublished_at": null,
+            "id": 135013,
+            "uuid": "6f16b99f-5d6b-4463-ac09-65a945ce86d6",
+            "space_id": 1450,
+            "name": "perfume Oil",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": 5062,
+            "updated_at": "2023-12-07T10:24:35.000+02:00",
+            "tags": [],
+            "locale": "en",
+            "private": false,
+            "workflow": {
+                "id": 320341,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "field_values": [
+                {
+                    "id": 1912186,
+                    "field_id": 20246,
+                    "type": "text",
+                    "value": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil"
+                },
+                {
+                    "id": 1912187,
+                    "field_id": 20245,
+                    "type": "decimal",
+                    "value": "34.0"
+                },
+                {
+                    "id": 1912188,
+                    "field_id": 20538,
+                    "type": "assets",
+                    "value": [
+                        {
+                            "id": 408395,
+                            "uuid": "b23627ad-28b7-4a26-baff-b303ba2d6695",
+                            "data_file_name": "zoom-front-1215655-420x420.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 14217,
+                            "url": "https://cloud.modyocdn.com/uploads/b23627ad-28b7-4a26-baff-b303ba2d6695/original/zoom-front-1215655-420x420.jpg",
+                            "created_at": "2023-12-07T10:24:24.000+02:00",
+                            "updated_at": "2023-12-07T10:24:24.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/b23627ad-28b7-4a26-baff-b303ba2d6695/C200x200/zoom-front-1215655-420x420.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Zoom Front 1215655 420x420",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/b23627ad-28b7-4a26-baff-b303ba2d6695/original/zoom-front-1215655-420x420.jpg"
+                        },
+                        {
+                            "id": 408396,
+                            "uuid": "7beccf8c-fecf-4f6c-81b1-90a7917ff23e",
+                            "data_file_name": "zoom-front-1231909-420x420.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 109260,
+                            "url": "https://cloud.modyocdn.com/uploads/7beccf8c-fecf-4f6c-81b1-90a7917ff23e/original/zoom-front-1231909-420x420.jpg",
+                            "created_at": "2023-12-07T10:24:25.000+02:00",
+                            "updated_at": "2023-12-07T10:24:25.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/7beccf8c-fecf-4f6c-81b1-90a7917ff23e/C200x200/zoom-front-1231909-420x420.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Zoom Front 1231909 420x420",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/7beccf8c-fecf-4f6c-81b1-90a7917ff23e/original/zoom-front-1231909-420x420.jpg"
+                        }
+                    ]
+                }
+            ],
+            "excerpt": "",
+            "targets": [],
+            "restriction_enabled": false,
+            "blocked": false,
+            "review_enabled": false,
+            "dirty": false,
+            "json": {
+                "meta": {
+                    "uuid": "6f16b99f-5d6b-4463-ac09-65a945ce86d6",
+                    "space": "ustretail",
+                    "name": "perfume Oil",
+                    "slug": "perfume-oil",
+                    "type": "products",
+                    "category": "perfumes",
+                    "category_slug": "perfumes",
+                    "category_name": "Perfumes",
+                    "updated_at": "2023-12-07T10:24:35.000+02:00",
+                    "created_at": "2023-12-05T22:31:54.000+02:00",
+                    "published_at": "2023-12-07T10:24:35.000+02:00",
+                    "unpublish_at": null,
+                    "tags": [],
+                    "available_locales": [
+                        "en"
+                    ],
+                    "locale": "en",
+                    "targets": [],
+                    "private": false,
+                    "version_type": "editable",
+                    "author": {
+                        "name": "Sunny Mathews",
+                        "first_name": "Sunny",
+                        "last_name": "Mathews",
+                        "email": "sunny.mathews@ust.com",
+                        "avatar": null
+                    },
+                    "excerpt": ""
+                },
+                "fields": {
+                    "Price": "34.0",
+                    "Description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+                    "Image": [
+                        {
+                            "uuid": "b23627ad-28b7-4a26-baff-b303ba2d6695",
+                            "url": "https://cloud.modyocdn.com/uploads/b23627ad-28b7-4a26-baff-b303ba2d6695/original/zoom-front-1215655-420x420.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Zoom Front 1215655 420x420",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        },
+                        {
+                            "uuid": "7beccf8c-fecf-4f6c-81b1-90a7917ff23e",
+                            "url": "https://cloud.modyocdn.com/uploads/7beccf8c-fecf-4f6c-81b1-90a7917ff23e/original/zoom-front-1231909-420x420.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Zoom Front 1231909 420x420",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        }
+                    ]
+                }
+            },
+            "status": "published",
+            "translated": true,
+            "type": "Content::Entry",
+            "slug": "perfume-oil",
+            "publish_at": null,
+            "unpublish_at": null,
+            "last_published_date": "2023-12-07T10:24:35.000+02:00",
+            "category_path": "perfumes"
+        },
+        {
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-07T10:23:45.000+02:00",
+            "unpublished_at": null,
+            "id": 135012,
+            "uuid": "41c00f2f-57fb-4a32-876b-fd5c7879ea47",
+            "space_id": 1450,
+            "name": "Samsung Universe 9",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": 5063,
+            "updated_at": "2023-12-07T10:23:45.000+02:00",
+            "tags": [],
+            "locale": "en",
+            "private": false,
+            "workflow": {
+                "id": 318218,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "field_values": [
+                {
+                    "id": 1912182,
+                    "field_id": 20246,
+                    "type": "text",
+                    "value": "Samsung's new variant which goes beyond Galaxy to the Universe"
+                },
+                {
+                    "id": 1912183,
+                    "field_id": 20245,
+                    "type": "decimal",
+                    "value": "33.0"
+                },
+                {
+                    "id": 1912184,
+                    "field_id": 20538,
+                    "type": "assets",
+                    "value": [
+                        {
+                            "id": 408389,
+                            "uuid": "0bcdbaa2-82c2-4255-8c0b-f4c4953ecea3",
+                            "data_file_name": "download.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 9510,
+                            "url": "https://cloud.modyocdn.com/uploads/0bcdbaa2-82c2-4255-8c0b-f4c4953ecea3/original/download.jpg",
+                            "created_at": "2023-12-07T10:22:31.000+02:00",
+                            "updated_at": "2023-12-07T10:22:31.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/0bcdbaa2-82c2-4255-8c0b-f4c4953ecea3/C200x200/download.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Download",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/0bcdbaa2-82c2-4255-8c0b-f4c4953ecea3/original/download.jpg"
+                        },
+                        {
+                            "id": 408391,
+                            "uuid": "e686a3c3-1817-43be-9c26-5cd437ddd822",
+                            "data_file_name": "39113-chameleon-samsung-fold5-icy-blue-sku-header-280623_0.png",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/png",
+                            "data_file_size": 162196,
+                            "url": "https://cloud.modyocdn.com/uploads/e686a3c3-1817-43be-9c26-5cd437ddd822/original/39113-chameleon-samsung-fold5-icy-blue-sku-header-280623_0.png",
+                            "created_at": "2023-12-07T10:22:31.000+02:00",
+                            "updated_at": "2023-12-07T10:22:31.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/e686a3c3-1817-43be-9c26-5cd437ddd822/C200x200/39113-chameleon-samsung-fold5-icy-blue-sku-header-280623_0.png",
+                            "type": "image/png",
+                            "tags": [],
+                            "title": "39113 Chameleon Samsung Fold5 Icy Blue Sku Header 280623 0",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/e686a3c3-1817-43be-9c26-5cd437ddd822/original/39113-chameleon-samsung-fold5-icy-blue-sku-header-280623_0.png"
+                        }
+                    ]
+                }
+            ],
+            "excerpt": "",
+            "targets": [],
+            "restriction_enabled": false,
+            "blocked": false,
+            "review_enabled": false,
+            "dirty": false,
+            "json": {
+                "meta": {
+                    "uuid": "41c00f2f-57fb-4a32-876b-fd5c7879ea47",
+                    "space": "ustretail",
+                    "name": "Samsung Universe 9",
+                    "slug": "samsung-universe-9",
+                    "type": "products",
+                    "category": "mobile",
+                    "category_slug": "mobile",
+                    "category_name": "Mobile",
+                    "updated_at": "2023-12-07T10:23:45.000+02:00",
+                    "created_at": "2023-11-22T21:01:15.000+02:00",
+                    "published_at": "2023-12-07T10:23:45.000+02:00",
+                    "unpublish_at": null,
+                    "tags": [],
+                    "available_locales": [
+                        "en"
+                    ],
+                    "locale": "en",
+                    "targets": [],
+                    "private": false,
+                    "version_type": "editable",
+                    "author": {
+                        "name": "Sunny Mathews",
+                        "first_name": "Sunny",
+                        "last_name": "Mathews",
+                        "email": "sunny.mathews@ust.com",
+                        "avatar": null
+                    },
+                    "excerpt": ""
+                },
+                "fields": {
+                    "Price": "33.0",
+                    "Description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+                    "Image": [
+                        {
+                            "uuid": "0bcdbaa2-82c2-4255-8c0b-f4c4953ecea3",
+                            "url": "https://cloud.modyocdn.com/uploads/0bcdbaa2-82c2-4255-8c0b-f4c4953ecea3/original/download.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Download",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        },
+                        {
+                            "uuid": "e686a3c3-1817-43be-9c26-5cd437ddd822",
+                            "url": "https://cloud.modyocdn.com/uploads/e686a3c3-1817-43be-9c26-5cd437ddd822/original/39113-chameleon-samsung-fold5-icy-blue-sku-header-280623_0.png",
+                            "content_type": "image/png",
+                            "title": "39113 Chameleon Samsung Fold5 Icy Blue Sku Header 280623 0",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        }
+                    ]
+                }
+            },
+            "status": "published",
+            "translated": true,
+            "type": "Content::Entry",
+            "slug": "samsung-universe-9",
+            "publish_at": null,
+            "unpublish_at": null,
+            "last_published_date": "2023-12-07T10:23:45.000+02:00",
+            "category_path": "mobile"
+        },
+        {
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-07T10:23:19.000+02:00",
+            "unpublished_at": null,
+            "id": 135011,
+            "uuid": "38838e11-cbcc-4e62-bd03-7033c1400a22",
+            "space_id": 1450,
+            "name": "iPhone 9",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": 5063,
+            "updated_at": "2023-12-07T10:23:19.000+02:00",
+            "tags": [],
+            "locale": "en",
+            "private": false,
+            "workflow": {
+                "id": 318272,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "field_values": [
+                {
+                    "id": 1912178,
+                    "field_id": 20246,
+                    "type": "text",
+                    "value": "An apple mobile which is nothing like apple"
+                },
+                {
+                    "id": 1912179,
+                    "field_id": 20245,
+                    "type": "decimal",
+                    "value": "549.0"
+                },
+                {
+                    "id": 1912180,
+                    "field_id": 20538,
+                    "type": "assets",
+                    "value": [
+                        {
+                            "id": 408392,
+                            "uuid": "ce5b4faf-70a7-477a-8830-3ac894dcc513",
+                            "data_file_name": "refurb-iphone-13-pro-max-graphite-2023.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 111403,
+                            "url": "https://cloud.modyocdn.com/uploads/ce5b4faf-70a7-477a-8830-3ac894dcc513/original/refurb-iphone-13-pro-max-graphite-2023.jpg",
+                            "created_at": "2023-12-07T10:22:32.000+02:00",
+                            "updated_at": "2023-12-07T10:22:32.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/ce5b4faf-70a7-477a-8830-3ac894dcc513/C200x200/refurb-iphone-13-pro-max-graphite-2023.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Refurb Iphone 13 Pro Max Graphite 2023",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/ce5b4faf-70a7-477a-8830-3ac894dcc513/original/refurb-iphone-13-pro-max-graphite-2023.jpg"
+                        },
+                        {
+                            "id": 408393,
+                            "uuid": "3179b2bc-2a55-4c6e-8727-6dc9b2bce341",
+                            "data_file_name": "refurb-iphone-13-pro-max-blue-2023.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 120317,
+                            "url": "https://cloud.modyocdn.com/uploads/3179b2bc-2a55-4c6e-8727-6dc9b2bce341/original/refurb-iphone-13-pro-max-blue-2023.jpg",
+                            "created_at": "2023-12-07T10:22:32.000+02:00",
+                            "updated_at": "2023-12-07T10:22:32.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/3179b2bc-2a55-4c6e-8727-6dc9b2bce341/C200x200/refurb-iphone-13-pro-max-blue-2023.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Refurb Iphone 13 Pro Max Blue 2023",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/3179b2bc-2a55-4c6e-8727-6dc9b2bce341/original/refurb-iphone-13-pro-max-blue-2023.jpg"
+                        }
+                    ]
+                }
+            ],
+            "excerpt": "",
+            "targets": [],
+            "restriction_enabled": false,
+            "blocked": false,
+            "review_enabled": false,
+            "dirty": false,
+            "json": {
+                "meta": {
+                    "uuid": "38838e11-cbcc-4e62-bd03-7033c1400a22",
+                    "space": "ustretail",
+                    "name": "iPhone 9",
+                    "slug": "iphone-9",
+                    "type": "products",
+                    "category": "mobile",
+                    "category_slug": "mobile",
+                    "category_name": "Mobile",
+                    "updated_at": "2023-12-07T10:23:19.000+02:00",
+                    "created_at": "2023-11-22T21:51:49.000+02:00",
+                    "published_at": "2023-12-07T10:23:19.000+02:00",
+                    "unpublish_at": null,
+                    "tags": [],
+                    "available_locales": [
+                        "en"
+                    ],
+                    "locale": "en",
+                    "targets": [],
+                    "private": false,
+                    "version_type": "editable",
+                    "author": {
+                        "name": "Sunny Mathews",
+                        "first_name": "Sunny",
+                        "last_name": "Mathews",
+                        "email": "sunny.mathews@ust.com",
+                        "avatar": null
+                    },
+                    "excerpt": ""
+                },
+                "fields": {
+                    "Price": "549.0",
+                    "Description": "An apple mobile which is nothing like apple",
+                    "Image": [
+                        {
+                            "uuid": "ce5b4faf-70a7-477a-8830-3ac894dcc513",
+                            "url": "https://cloud.modyocdn.com/uploads/ce5b4faf-70a7-477a-8830-3ac894dcc513/original/refurb-iphone-13-pro-max-graphite-2023.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Refurb Iphone 13 Pro Max Graphite 2023",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        },
+                        {
+                            "uuid": "3179b2bc-2a55-4c6e-8727-6dc9b2bce341",
+                            "url": "https://cloud.modyocdn.com/uploads/3179b2bc-2a55-4c6e-8727-6dc9b2bce341/original/refurb-iphone-13-pro-max-blue-2023.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Refurb Iphone 13 Pro Max Blue 2023",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        }
+                    ]
+                }
+            },
+            "status": "published",
+            "translated": true,
+            "type": "Content::Entry",
+            "slug": "iphone-9",
+            "publish_at": null,
+            "unpublish_at": null,
+            "last_published_date": "2023-12-07T10:23:19.000+02:00",
+            "category_path": "mobile"
+        },
+        {
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-07T10:23:12.000+02:00",
+            "unpublished_at": null,
+            "id": 135010,
+            "uuid": "7ebf46b4-aef0-4586-b9ae-bc884206583f",
+            "space_id": 1450,
+            "name": "iPhone X",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": 5063,
+            "updated_at": "2023-12-07T10:23:12.000+02:00",
+            "tags": [],
+            "locale": "en",
+            "private": false,
+            "workflow": {
+                "id": 318155,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "field_values": [
+                {
+                    "id": 1912175,
+                    "field_id": 20246,
+                    "type": "text",
+                    "value": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with"
+                },
+                {
+                    "id": 1912176,
+                    "field_id": 20245,
+                    "type": "decimal",
+                    "value": "48.0"
+                },
+                {
+                    "id": 1912177,
+                    "field_id": 20538,
+                    "type": "assets",
+                    "value": [
+                        {
+                            "id": 408394,
+                            "uuid": "2f1e7401-0eb5-4298-baad-e60252f60ade",
+                            "data_file_name": "refurb-iphone-13-pro-max-gold-2023.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 500255,
+                            "url": "https://cloud.modyocdn.com/uploads/2f1e7401-0eb5-4298-baad-e60252f60ade/original/refurb-iphone-13-pro-max-gold-2023.jpg",
+                            "created_at": "2023-12-07T10:22:32.000+02:00",
+                            "updated_at": "2023-12-07T10:22:32.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/2f1e7401-0eb5-4298-baad-e60252f60ade/C200x200/refurb-iphone-13-pro-max-gold-2023.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Refurb Iphone 13 Pro Max Gold 2023",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/2f1e7401-0eb5-4298-baad-e60252f60ade/original/refurb-iphone-13-pro-max-gold-2023.jpg"
+                        },
+                        {
+                            "id": 408390,
+                            "uuid": "9121f471-ff65-4aff-99e6-d28aa055a6f0",
+                            "data_file_name": "iphone-card-40-iphone15prohero-202309_FMT_WHH.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 45331,
+                            "url": "https://cloud.modyocdn.com/uploads/9121f471-ff65-4aff-99e6-d28aa055a6f0/original/iphone-card-40-iphone15prohero-202309_FMT_WHH.jpg",
+                            "created_at": "2023-12-07T10:22:31.000+02:00",
+                            "updated_at": "2023-12-07T10:22:31.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/9121f471-ff65-4aff-99e6-d28aa055a6f0/C200x200/iphone-card-40-iphone15prohero-202309_FMT_WHH.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Iphone Card 40 Iphone15prohero 202309 Fmt Whh",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/9121f471-ff65-4aff-99e6-d28aa055a6f0/original/iphone-card-40-iphone15prohero-202309_FMT_WHH.jpg"
+                        }
+                    ]
+                }
+            ],
+            "excerpt": "",
+            "targets": [],
+            "restriction_enabled": false,
+            "blocked": false,
+            "review_enabled": false,
+            "dirty": false,
+            "json": {
+                "meta": {
+                    "uuid": "7ebf46b4-aef0-4586-b9ae-bc884206583f",
+                    "space": "ustretail",
+                    "name": "iPhone X",
+                    "slug": "iphone-x",
+                    "type": "products",
+                    "category": "mobile",
+                    "category_slug": "mobile",
+                    "category_name": "Mobile",
+                    "updated_at": "2023-12-07T10:23:12.000+02:00",
+                    "created_at": "2023-11-22T16:46:15.000+02:00",
+                    "published_at": "2023-12-07T10:23:12.000+02:00",
+                    "unpublish_at": null,
+                    "tags": [],
+                    "available_locales": [
+                        "en"
+                    ],
+                    "locale": "en",
+                    "targets": [],
+                    "private": false,
+                    "version_type": "editable",
+                    "author": {
+                        "name": "Sunny Mathews",
+                        "first_name": "Sunny",
+                        "last_name": "Mathews",
+                        "email": "sunny.mathews@ust.com",
+                        "avatar": null
+                    },
+                    "excerpt": ""
+                },
+                "fields": {
+                    "Price": "48.0",
+                    "Description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with",
+                    "Image": [
+                        {
+                            "uuid": "2f1e7401-0eb5-4298-baad-e60252f60ade",
+                            "url": "https://cloud.modyocdn.com/uploads/2f1e7401-0eb5-4298-baad-e60252f60ade/original/refurb-iphone-13-pro-max-gold-2023.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Refurb Iphone 13 Pro Max Gold 2023",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        },
+                        {
+                            "uuid": "9121f471-ff65-4aff-99e6-d28aa055a6f0",
+                            "url": "https://cloud.modyocdn.com/uploads/9121f471-ff65-4aff-99e6-d28aa055a6f0/original/iphone-card-40-iphone15prohero-202309_FMT_WHH.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Iphone Card 40 Iphone15prohero 202309 Fmt Whh",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        }
+                    ]
+                }
+            },
+            "status": "published",
+            "translated": true,
+            "type": "Content::Entry",
+            "slug": "iphone-x",
+            "publish_at": null,
+            "unpublish_at": null,
+            "last_published_date": "2023-12-07T10:23:12.000+02:00",
+            "category_path": "mobile"
+        }
+    ]
+}
