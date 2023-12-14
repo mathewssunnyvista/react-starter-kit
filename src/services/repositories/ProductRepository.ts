@@ -1,10 +1,10 @@
-import type { GenericAbortSignal } from "axios";
+import type { AxiosResponse, GenericAbortSignal } from "axios";
 import ApiClient from "../ApiClient";
 import { ApiProduct } from "../api-interface";
 import productMapper from "../mappers/productMapper";
 
 export async function list(config?: { abortSignal: GenericAbortSignal }) {
-  const { data } = await ApiClient.request<Array<ApiProduct>>({
+  const response = await ApiClient.request<Array<ApiProduct>>({
     // content/spaces/<space_id>/entries
     url: "/entries",
     method: "GET",
@@ -16,16 +16,22 @@ export async function list(config?: { abortSignal: GenericAbortSignal }) {
     }),
   });
 
+  const metaData = response.data.meta;
+
+  const data = await getProductDetail(response);
+
   // eslint-disable-next-line @typescript-eslint/no-unsafe-return
-  return data.map((apiProduct: ApiProduct) => productMapper(apiProduct));
+  return {
+    data,
+    meta: metaData,
+  };
 }
 
 export async function filteredList(
   urlParams: string,
   config?: { abortSignal: GenericAbortSignal }
 ) {
-
-  const { data } = await ApiClient.request<Array<ApiProduct>>({
+  const response = await ApiClient.request<Array<ApiProduct>>({
     // content/spaces/<space_id>/entries?query=sa
     url: `/entries?${urlParams}`,
     method: "GET",
@@ -36,15 +42,16 @@ export async function filteredList(
       signal: config.abortSignal,
     }),
   });
-  const apiRequest = [];
-  data.map((item) => {
-    apiRequest.push(detail(item.id));
-  });
-  const res = await Promise.all(apiRequest);
-  const dataNew = res.map((res) => res.data);
-  console.log(dataNew.flat(),"dataaaaaaaaa")
+  
+  const metaData = response.data.meta;
+
+  const data = await getProductDetail(response);
+
   // eslint-disable-next-line @typescript-eslint/no-unsafe-return
-  return dataNew.map((apiProduct: ApiProduct) => productMapper(apiProduct));
+  return {
+    data,
+    meta: metaData,
+  };
 }
 
 export async function detail(
@@ -63,7 +70,17 @@ export async function detail(
     }),
   });
 
-
   // eslint-disable-next-line @typescript-eslint/no-unsafe-return
   //  return data.map((apiProduct: ApiProduct) => productMapper(apiProduct));
+}
+
+export async function getProductDetail(response: AxiosResponse<ApiProduct[]>) {
+  const apiRequest = [];
+  response.data.data.map((item) => {
+    apiRequest.push(detail(item.id));
+  });
+  const result = await Promise.all(apiRequest);
+  const data = result.map((res) => res.data);
+
+  return data.map((apiProduct: ApiProduct) => productMapper(apiProduct));
 }

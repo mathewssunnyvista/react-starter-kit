@@ -2,7 +2,8 @@
   "products": {
     "title": "Productos",
     "filter": "Filtrar",
-    "apply": "Aplicar"
+    "apply": "Aplicar",
+    "reset": "Reset"
   },
   "filter": {
     "searchInput": {

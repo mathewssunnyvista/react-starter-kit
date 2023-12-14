@@ -18,22 +18,9 @@ export default function useProductEffect() {
     (async () => {
       setLoading(true);
       try {
-        const data = await ProductRepository.list();
-        console.log(data,"ssss")
-
-        // Getting entry at first and send other request to get attributes.
-        // const apiRequest = [];
-        // data.map((item) => {
-        //   apiRequest.push(ProductRepository.detail(item.id));
-        // });
-
-        // const res = await Promise.all(apiRequest);
-        // const dataNew = res.map((res) => res);
-        // console.log(dataNew.flat().slice(0,4));
-
-        // dispatch(setProducts(dataNew.flat().slice(0,4)));
-        dispatch(setProducts(data));
+        const result = await ProductRepository.list();
         setLoading(false);
+        dispatch(setProducts(result.data));
       } catch (error) {
         errorHandler(error);
       }

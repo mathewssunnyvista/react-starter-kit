@@ -11,6 +11,7 @@ import App from "./App";
 
 import "@dynamic-framework/ui-react/dist/css/dynamic-ui.css";
 import "./styles/base.scss";
+import { LANG } from "./config/widgetConfig";
 
 const root = ReactDOM.createRoot(
   document.getElementById("widgetName") as Element
@@ -24,3 +25,6 @@ root.render(
     </DContextProvider>
   </StrictMode>
 );
+if(LANG === 'ar') {
+  document.getElementsByTagName('html')[0].setAttribute("dir", "rtl");
+}

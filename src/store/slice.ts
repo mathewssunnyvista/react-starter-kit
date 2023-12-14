@@ -1,16 +1,16 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { Category, Product } from "../services/interface";
+import { Category, Product, FilterParams } from "../services/interface";
 
 export type WidgetState = {
   products: Array<Product>;
-  filterProducts: Array<Product>;
+  filterParams: FilterParams;
   categories: Array<Category>;
   selectedCategory?: Category;
 };
 
 const initialState: WidgetState = {
   products: [],
-  filterProducts: [],
+  filterParams: {},
   categories: [],
 } as WidgetState;
 
@@ -27,9 +27,16 @@ const slice = createSlice({
     setSelectedCategory(state, action: PayloadAction<Category>) {
       state.selectedCategory = action.payload;
     },
+    setFilterParams(state, action: PayloadAction<FilterParams>) {
+      state.filterParams = action.payload;
+    },
   },
 });
 
-export const { setProducts, setCategories, setSelectedCategory } =
-  slice.actions;
+export const {
+  setProducts,
+  setCategories,
+  setSelectedCategory,
+  setFilterParams,
+} = slice.actions;
 export default slice.reducer;

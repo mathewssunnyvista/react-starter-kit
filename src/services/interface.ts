@@ -1,5 +1,3 @@
-
-
 export type ImageAttributes = {
   uuid: string;
   url: string;
@@ -26,5 +24,8 @@ export type BaseCategory = {
   label: string;
 };
 
+export type BaseFilterParams = Record<string, string>
+
 export type Category = BaseCategory;
 export type Product = BaseProduct & ProductAttributes;
+export type FilterParams = BaseFilterParams;

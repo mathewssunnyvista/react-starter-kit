@@ -3,19 +3,24 @@ import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import queryString from 'query-string';
 import { useAppDispatch, useAppSelector } from '../store/hooks';
-import { setProducts } from '../store/slice';
+import { setFilterParams, setProducts } from '../store/slice';
 import SearchInput from './SearchInput';
 import { ProductRepository } from '../services/repositories';
 import useCategories from '../services/hooks/useCategories';
 import FilterLoader from './loaders/FilterLoader';
 import SearchByCategory from './SearchByCategory';
-import { getSelectedCategory } from '../store/selectors';
+import { getFilterParams, getSelectedCategory } from '../store/selectors';
+import { FilterParams } from '../services/interface';
 
 export default function Filter() {
   const dispatch = useAppDispatch();
   const { t } = useTranslation();
   const { loading } = useCategories();
+
   const selectedCategory = useAppSelector(getSelectedCategory);
+
+
+
   const [searchKey, setSearchKey] = useState<string>();
 
   if (loading) {
@@ -23,17 +28,28 @@ export default function Filter() {
   }
   
   const searchProducts = async () => {
-    const params = {};
-    // params.query = searchKey -- for modyo real api
-    // params.category_id = categoryId -- for modyo real api
-    params.name_like = searchKey;
-    params.category_id = selectedCategory?.value;
+    try {
+      const params = {} as FilterParams;
+      // params.query = searchKey -- for modyo real api
+      // params.category_id = categoryId -- for modyo real api  
+      params.name_like = searchKey;
+      params.category_id = selectedCategory?.value;
+      dispatch(setFilterParams(params));
+    } catch (e) {
+      console.log(e)
+    }
 
-    const urlParams = queryString.stringify(params);
-    const data = await ProductRepository.filteredList(urlParams);
-
-    dispatch(setProducts(data));
   };
+  const resetProducts = async () => {
+    try {
+      const params = {} as FilterParams;
+      dispatch(setFilterParams(params));
+    } catch (e) {
+      console.log(e)
+    }
+
+  };
+
 
   return (
     <div className="bg-light d-flex flex-column p-3 rounded gap-3 quick-transfer">
@@ -49,6 +65,13 @@ export default function Filter() {
         theme="primary"
         iconEnd="search"
         onClick={searchProducts}
+      />
+      <DButton
+        text={t('products.reset')}
+        isPill
+        theme="primary"
+        iconEnd="bootstrap-reboot"
+        onClick={resetProducts}
       />
     </div>
   );

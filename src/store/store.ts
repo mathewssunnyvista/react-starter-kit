@@ -1,9 +1,11 @@
 import { combineReducers, configureStore } from '@reduxjs/toolkit';
+import { loaderSlice } from './loaderSlice';
 
 import slice from './slice';
 
 const reducer = combineReducers({
   widget: slice,
+  loader: loaderSlice
 });
 
 const store = configureStore({ reducer });

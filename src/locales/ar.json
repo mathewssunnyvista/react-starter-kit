@@ -2,7 +2,8 @@
   "products": {
     "title": "منتجات",
     "filter": "منقي",
-    "apply": "يتقدم"
+    "apply": "يتقدم",
+    "reset": "Reset"
   },
   "filter": {
     "searchInput": {

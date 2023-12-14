@@ -2,7 +2,8 @@
   "products": {
     "title": "Products",
     "filter": "Filter",
-    "apply": "Apply"
+    "apply": "Apply",
+    "reset": "Reset"
   },
   "filter": {
     "searchInput": {
@@ -12,5 +13,9 @@
     "searchCategory": {
       "label": "Category"
     }
+  },
+  "pagination": {
+    "next": "Next",
+    "previous": "Previous"
   }
 }

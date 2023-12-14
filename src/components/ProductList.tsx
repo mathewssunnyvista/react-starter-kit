@@ -6,21 +6,29 @@ import ProductCard from './ProductCard';
 import useProductEffect from '../services/hooks/useProductEffect';
 
 import usePaginator from '../hooks/usePaginator';
+import ProductListLoader from './loaders/ProductListLoader';
+import { useAppSelector } from '../store/hooks';
+import { getProducts } from '../store/selectors';
+import { useSelector } from 'react-redux';
 
 export default function ProductList() {
 
+
   const { t } = useTranslation();
 
- // const { loading, products } = useProductEffect();
+ const { loading } = useProductEffect();
 
- 
+ const products = useAppSelector(getProducts);
+
+  // if (loading) {
+  //   return <ProductListLoader />;
+  // }
   const {
     callback,
     currentPage,
     resData,
     totalPages,
   } = usePaginator(1);
-  console.log(resData,"hjhjhj")
 
   return (
     <div
@@ -28,8 +36,8 @@ export default function ProductList() {
     >
       <DList isHorizontal>
         <div className="row">
-          {resData.map((product: Product) => (
-            <DListItem className="col border-0" key={product.id}>
+          {products.map((product: Product) => (
+            <DListItem className="col border-0 p-3" key={product.id}>
               <ProductCard product={product} />
             </DListItem>
           ))}
@@ -37,11 +45,11 @@ export default function ProductList() {
       </DList>
       <DPaginator
         className="justify-content-center"
-        nextLabel="Next"
+        nextLabel={t('pagination.next')}
         page={currentPage}
         total={totalPages}
         onPageChange={(page: number) => callback(page)}
-        previousLabel="Previous"
+        previousLabel={t('pagination.previous')}
       />
     </div>
   );

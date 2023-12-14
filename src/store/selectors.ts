@@ -1,7 +1,6 @@
 import { createDraftSafeSelector } from "@reduxjs/toolkit";
-import { Product } from "../services/interface";
-
 import type { RootState } from "./store";
+
 const getState = (state: RootState) => state.widget;
 
 export const getProducts = createDraftSafeSelector(
@@ -19,21 +18,7 @@ export const getSelectedCategory = createDraftSafeSelector(
   (widget) => widget.selectedCategory
 );
 
-export const getFilterProducts = createDraftSafeSelector(
+export const getFilterParams = createDraftSafeSelector(
   getState,
-  (widget) => widget.filterProducts
-);
-
-export const getFilteredActivities = createDraftSafeSelector(
-  getProducts,
-  getFilterProducts,
-  (products, filter) => {
-    if (filter.query === "") {
-      return products;
-    }
-
-    return products.filter(({ name }: Product) =>
-      name.toLowerCase().includes(filter.query)
-    );
-  }
+  (widget) => widget.filterParams
 );
