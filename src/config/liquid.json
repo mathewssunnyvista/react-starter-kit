@@ -1,10 +1,14 @@
 {
   "site": {
     "name": "My Site",
-    "language": "ar",
+    "language": "en",
     "url": "https://un.modyo.cloud/testing"
   },
   "vars": {
-    "api-path": "http://localhost:3000/"
+    "api-path": "http://localhost:3000/",
+    "endpoints": {
+      "products": "entries",
+      "category": "categories"
+    }
   }
 }

@@ -1,24 +1,24 @@
-import { createDraftSafeSelector } from "@reduxjs/toolkit";
-import type { RootState } from "./store";
+import { createDraftSafeSelector } from '@reduxjs/toolkit'
+import type { RootState } from './store'
 
-const getState = (state: RootState) => state.widget;
+const getState = (state: RootState) => state.widget
 
 export const getProducts = createDraftSafeSelector(
-  getState,
-  (widget) => widget.products
-);
-
-export const getCategories = createDraftSafeSelector(
-  getState,
-  (widget) => widget.categories
-);
+    getState,
+    (widget) => widget.products
+)
 
 export const getSelectedCategory = createDraftSafeSelector(
-  getState,
-  (widget) => widget.selectedCategory
-);
+    getState,
+    (widget) => widget.selectedCategory
+)
+
+export const getCategories = createDraftSafeSelector(
+    getState,
+    (widget) => widget.categories
+)
 
 export const getFilterParams = createDraftSafeSelector(
-  getState,
-  (widget) => widget.filterParams
-);
+    getState,
+    (widget) => widget.filterParams
+)

@@ -17,5 +17,10 @@
   "pagination": {
     "next": "Next",
     "previous": "Previous"
+  },
+  "modal": {
+    "actions": {
+      "accept": "Accept"
+    }
   }
 }
