@@ -1,9 +1,169 @@
 {
     "entries": [
         {
-            "id": 135013,
+            "id": 136378,
+            "uuid": "770c7a48-5169-411e-b921-1650f7ff382a",
+            "name": "Kingston Canvas Select Plus microSD Card SDCS2/128 GB Class 10 (SD Adapter Included)",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "first_name": "Sunny",
+                "last_name": "Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": null,
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-13T00:33:50.000+02:00",
+            "unpublished_at": null,
+            "updated_at": "2023-12-13T00:33:50.000+02:00",
+            "tags": [],
+            "locale": "en",
+            "workflow": {
+                "id": 322778,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "dirty": false,
+            "status": "translate",
+            "translated": false,
+            "target_locale": "en",
+            "url": "https://ustretail.modyo.cloud/admin/content/spaces/ustretail/entries/770c7a48-5169-411e-b921-1650f7ff382a?target_locale=en",
+            "publish_at": null,
+            "unpublish_at": null,
+            "private": false,
+            "target_list": "--"
+        },
+        {
+            "id": 136376,
+            "uuid": "279e600f-e194-4ea0-b60e-3058ad6b396b",
+            "name": "GAFAT D odge RAM 1500 2019-2022 Navigation Screen Protector for RAM 1500 GPS Touch Screen 9H Anti-Scratch",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "first_name": "Sunny",
+                "last_name": "Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": null,
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-13T00:32:10.000+02:00",
+            "unpublished_at": null,
+            "updated_at": "2023-12-13T00:32:11.000+02:00",
+            "tags": [
+                "acessories"
+            ],
+            "locale": "en",
+            "workflow": {
+                "id": 322776,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "dirty": false,
+            "status": "translate",
+            "translated": false,
+            "target_locale": "en",
+            "url": "https://ustretail.modyo.cloud/admin/content/spaces/ustretail/entries/279e600f-e194-4ea0-b60e-3058ad6b396b?target_locale=en",
+            "publish_at": null,
+            "unpublish_at": null,
+            "private": false,
+            "target_list": "--"
+        },
+        {
+            "id": 136375,
+            "uuid": "ea014ded-adfc-4076-91e3-ef7e8cf626c8",
+            "name": "AirTag Holder Keyring Case 4 Pack, Air Tag Key Ring Tracker Keychain Compatible with Apple GPS Locator, Silicone iTag Item Finder Protective Cover Lightweight Key Fob Organizer",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "first_name": "Sunny",
+                "last_name": "Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": null,
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-13T00:31:59.000+02:00",
+            "unpublished_at": null,
+            "updated_at": "2023-12-13T00:31:59.000+02:00",
+            "tags": [
+                "acessories"
+            ],
+            "locale": "en",
+            "workflow": {
+                "id": 322777,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "dirty": false,
+            "status": "translate",
+            "translated": false,
+            "target_locale": "en",
+            "url": "https://ustretail.modyo.cloud/admin/content/spaces/ustretail/entries/ea014ded-adfc-4076-91e3-ef7e8cf626c8?target_locale=en",
+            "publish_at": null,
+            "unpublish_at": null,
+            "private": false,
+            "target_list": "--"
+        },
+        {
+            "id": 136370,
             "uuid": "6f16b99f-5d6b-4463-ac09-65a945ce86d6",
-            "name": "perfume Oil",
+            "name": "Perfume Oil",
             "content_type_id": 4025,
             "type_name": "Products",
             "user": {
@@ -15,10 +175,12 @@
             "category_id": 5062,
             "published": true,
             "scheduled": false,
-            "published_at": "2023-12-07T10:24:35.000+02:00",
+            "published_at": "2023-12-13T00:27:37.000+02:00",
             "unpublished_at": null,
-            "updated_at": "2023-12-07T10:24:35.000+02:00",
-            "tags": [],
+            "updated_at": "2023-12-13T00:27:37.000+02:00",
+            "tags": [
+                "fragrances"
+            ],
             "locale": "en",
             "workflow": {
                 "id": 320341,
@@ -53,7 +215,7 @@
             "target_list": "--"
         },
         {
-            "id": 135012,
+            "id": 136369,
             "uuid": "41c00f2f-57fb-4a32-876b-fd5c7879ea47",
             "name": "Samsung Universe 9",
             "content_type_id": 4025,
@@ -67,10 +229,12 @@
             "category_id": 5063,
             "published": true,
             "scheduled": false,
-            "published_at": "2023-12-07T10:23:45.000+02:00",
+            "published_at": "2023-12-13T00:26:50.000+02:00",
             "unpublished_at": null,
-            "updated_at": "2023-12-07T10:23:45.000+02:00",
-            "tags": [],
+            "updated_at": "2023-12-13T00:26:50.000+02:00",
+            "tags": [
+                "android"
+            ],
             "locale": "en",
             "workflow": {
                 "id": 318218,
@@ -105,7 +269,61 @@
             "target_list": "--"
         },
         {
-            "id": 135011,
+            "id": 136368,
+            "uuid": "7ebf46b4-aef0-4586-b9ae-bc884206583f",
+            "name": "iPhone X",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "first_name": "Sunny",
+                "last_name": "Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": 5063,
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-13T00:26:33.000+02:00",
+            "unpublished_at": null,
+            "updated_at": "2023-12-13T00:26:33.000+02:00",
+            "tags": [
+                "ios"
+            ],
+            "locale": "en",
+            "workflow": {
+                "id": 318155,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "dirty": false,
+            "status": "translate",
+            "translated": false,
+            "target_locale": "en",
+            "url": "https://ustretail.modyo.cloud/admin/content/spaces/ustretail/entries/7ebf46b4-aef0-4586-b9ae-bc884206583f?target_locale=en",
+            "publish_at": null,
+            "unpublish_at": null,
+            "private": false,
+            "target_list": "--"
+        },
+        {
+            "id": 136367,
             "uuid": "38838e11-cbcc-4e62-bd03-7033c1400a22",
             "name": "iPhone 9",
             "content_type_id": 4025,
@@ -119,10 +337,12 @@
             "category_id": 5063,
             "published": true,
             "scheduled": false,
-            "published_at": "2023-12-07T10:23:19.000+02:00",
+            "published_at": "2023-12-13T00:26:20.000+02:00",
             "unpublished_at": null,
-            "updated_at": "2023-12-07T10:23:19.000+02:00",
-            "tags": [],
+            "updated_at": "2023-12-13T00:26:20.000+02:00",
+            "tags": [
+                "ios"
+            ],
             "locale": "en",
             "workflow": {
                 "id": 318272,
@@ -157,9 +377,9 @@
             "target_list": "--"
         },
         {
-            "id": 135010,
-            "uuid": "7ebf46b4-aef0-4586-b9ae-bc884206583f",
-            "name": "iPhone X",
+            "id": 136366,
+            "uuid": "e54c71a9-9d19-4925-84b2-022d6029218f",
+            "name": "Samsung Galaxy",
             "content_type_id": 4025,
             "type_name": "Products",
             "user": {
@@ -171,13 +391,15 @@
             "category_id": 5063,
             "published": true,
             "scheduled": false,
-            "published_at": "2023-12-07T10:23:12.000+02:00",
+            "published_at": "2023-12-13T00:25:55.000+02:00",
             "unpublished_at": null,
-            "updated_at": "2023-12-07T10:23:12.000+02:00",
-            "tags": [],
+            "updated_at": "2023-12-13T00:25:55.000+02:00",
+            "tags": [
+                "android"
+            ],
             "locale": "en",
             "workflow": {
-                "id": 318155,
+                "id": 322775,
                 "current_state": "draft",
                 "approved": false,
                 "reviewing": false,
@@ -202,7 +424,7 @@
             "status": "translate",
             "translated": false,
             "target_locale": "en",
-            "url": "https://ustretail.modyo.cloud/admin/content/spaces/ustretail/entries/7ebf46b4-aef0-4586-b9ae-bc884206583f?target_locale=en",
+            "url": "https://ustretail.modyo.cloud/admin/content/spaces/ustretail/entries/e54c71a9-9d19-4925-84b2-022d6029218f?target_locale=en",
             "publish_at": null,
             "unpublish_at": null,
             "private": false,
@@ -233,9 +455,482 @@
         {
             "published": true,
             "scheduled": false,
-            "published_at": "2023-12-07T10:24:35.000+02:00",
+            "published_at": "2023-12-13T00:33:50.000+02:00",
             "unpublished_at": null,
-            "id": 135013,
+            "id": 136378,
+            "uuid": "770c7a48-5169-411e-b921-1650f7ff382a",
+            "space_id": 1450,
+            "name": "Kingston Canvas Select Plus microSD Card SDCS2/128 GB Class 10 (SD Adapter Included)",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": null,
+            "updated_at": "2023-12-13T00:33:50.000+02:00",
+            "tags": [],
+            "locale": "en",
+            "private": false,
+            "workflow": {
+                "id": 322778,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "field_values": [
+                {
+                    "id": 1932455,
+                    "field_id": 20246,
+                    "type": "text",
+                    "value": "About this item\nFaster speeds: Class 10 UHS-I speeds up to 100 MB/s². Voltage 3.3 V\nOptimised for use with Android devices: Improved performance when used with an Android smartphone or tablet\nMultiple capacities: Up to 512 GB¹ to store all your memorable photos and videos\nDurable: For your peace of mind, the card has been extensively tested and proven to be waterproof, temperature proof, shock and vibration proof and X-ray proof³\nWarranty: Available with a lifetime warranty"
+                },
+                {
+                    "id": 1932456,
+                    "field_id": 20245,
+                    "type": "decimal",
+                    "value": "6.0"
+                },
+                {
+                    "id": 1932457,
+                    "field_id": 20538,
+                    "type": "assets",
+                    "value": [
+                        {
+                            "id": 408528,
+                            "uuid": "d3a01dcc-3ff6-426e-859c-239326049a60",
+                            "data_file_name": "kingston.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 22815,
+                            "url": "https://cloud.modyocdn.com/uploads/d3a01dcc-3ff6-426e-859c-239326049a60/original/kingston.jpg",
+                            "created_at": "2023-12-13T00:33:42.000+02:00",
+                            "updated_at": "2023-12-13T00:33:42.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/d3a01dcc-3ff6-426e-859c-239326049a60/C200x200/kingston.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Kingston",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/d3a01dcc-3ff6-426e-859c-239326049a60/original/kingston.jpg"
+                        }
+                    ]
+                }
+            ],
+            "excerpt": "",
+            "targets": [],
+            "restriction_enabled": false,
+            "blocked": false,
+            "review_enabled": false,
+            "dirty": false,
+            "json": {
+                "meta": {
+                    "uuid": "770c7a48-5169-411e-b921-1650f7ff382a",
+                    "space": "ustretail",
+                    "name": "Kingston Canvas Select Plus microSD Card SDCS2/128 GB Class 10 (SD Adapter Included)",
+                    "slug": "kingston-canvas-select-plus-microsd-card-sdcs2128-gb-class-10-sd-adapter-included",
+                    "type": "products",
+                    "category": null,
+                    "category_slug": null,
+                    "category_name": null,
+                    "updated_at": "2023-12-13T00:33:50.000+02:00",
+                    "created_at": "2023-12-13T00:32:55.000+02:00",
+                    "published_at": "2023-12-13T00:33:50.000+02:00",
+                    "unpublish_at": null,
+                    "tags": [],
+                    "available_locales": [
+                        "en"
+                    ],
+                    "locale": "en",
+                    "targets": [],
+                    "private": false,
+                    "version_type": "editable",
+                    "author": {
+                        "name": "Sunny Mathews",
+                        "first_name": "Sunny",
+                        "last_name": "Mathews",
+                        "email": "sunny.mathews@ust.com",
+                        "avatar": null
+                    },
+                    "excerpt": ""
+                },
+                "fields": {
+                    "Description": "About this item\nFaster speeds: Class 10 UHS-I speeds up to 100 MB/s². Voltage 3.3 V\nOptimised for use with Android devices: Improved performance when used with an Android smartphone or tablet\nMultiple capacities: Up to 512 GB¹ to store all your memorable photos and videos\nDurable: For your peace of mind, the card has been extensively tested and proven to be waterproof, temperature proof, shock and vibration proof and X-ray proof³\nWarranty: Available with a lifetime warranty",
+                    "Image": [
+                        {
+                            "uuid": "d3a01dcc-3ff6-426e-859c-239326049a60",
+                            "url": "https://cloud.modyocdn.com/uploads/d3a01dcc-3ff6-426e-859c-239326049a60/original/kingston.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Kingston",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        }
+                    ],
+                    "Price": "6.0"
+                }
+            },
+            "status": "published",
+            "translated": true,
+            "type": "Content::Entry",
+            "slug": "kingston-canvas-select-plus-microsd-card-sdcs2128-gb-class-10-sd-adapter-included",
+            "publish_at": null,
+            "unpublish_at": null,
+            "last_published_date": "2023-12-13T00:33:50.000+02:00",
+            "category_path": null
+        },
+        {
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-13T00:32:10.000+02:00",
+            "unpublished_at": null,
+            "id": 136376,
+            "uuid": "279e600f-e194-4ea0-b60e-3058ad6b396b",
+            "space_id": 1450,
+            "name": "GAFAT D odge RAM 1500 2019-2022 Navigation Screen Protector for RAM 1500 GPS Touch Screen 9H Anti-Scratch",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": null,
+            "updated_at": "2023-12-13T00:32:11.000+02:00",
+            "tags": [
+                "acessories"
+            ],
+            "locale": "en",
+            "private": false,
+            "workflow": {
+                "id": 322776,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "field_values": [
+                {
+                    "id": 1932449,
+                    "field_id": 20246,
+                    "type": "text",
+                    "value": "About this item\nApplicable models: the Dodge RAM 1500 2019 2020 2021 2022.\nFeatures: High sensitivity, 9H anti-scratch, high transparency, antibacterial technology, reduces fingerprints, waterproof, oil resistant, shatterproof, automatic adsorption.\nUltra thin and ultra-light: the thickness is only 0.23 mm, which provides a smoother feel and gives you the same feeling as the original screen.\nBox contents: protective film x 1, auxiliary tool (alcohol swab x 1, plastic suction cup x 1, microfibre cleaning cloth x 1, dust removal sticker x 1, installation instructions x 1)\nQuality control: check carefully before delivery. Don't worry. Please contact us if you have any questions. We will reply to you within 24 hours to ensure you are satisfied."
+                },
+                {
+                    "id": 1932450,
+                    "field_id": 20245,
+                    "type": "decimal",
+                    "value": "20.09"
+                },
+                {
+                    "id": 1932451,
+                    "field_id": 20538,
+                    "type": "assets",
+                    "value": [
+                        {
+                            "id": 408526,
+                            "uuid": "52cb5da0-6c9a-4360-a8e7-5fe8fa1dcbe3",
+                            "data_file_name": "Dot.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 61894,
+                            "url": "https://cloud.modyocdn.com/uploads/52cb5da0-6c9a-4360-a8e7-5fe8fa1dcbe3/original/Dot.jpg",
+                            "created_at": "2023-12-13T00:30:18.000+02:00",
+                            "updated_at": "2023-12-13T00:30:18.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/52cb5da0-6c9a-4360-a8e7-5fe8fa1dcbe3/C200x200/Dot.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Dot",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/52cb5da0-6c9a-4360-a8e7-5fe8fa1dcbe3/original/Dot.jpg"
+                        }
+                    ]
+                }
+            ],
+            "excerpt": "",
+            "targets": [],
+            "restriction_enabled": false,
+            "blocked": false,
+            "review_enabled": false,
+            "dirty": false,
+            "json": {
+                "meta": {
+                    "uuid": "279e600f-e194-4ea0-b60e-3058ad6b396b",
+                    "space": "ustretail",
+                    "name": "GAFAT D odge RAM 1500 2019-2022 Navigation Screen Protector for RAM 1500 GPS Touch Screen 9H Anti-Scratch",
+                    "slug": "gafat-d-odge-ram-1500-2019-2022-navigation-screen-protector-for-ram-1500-gps-touch-screen-9h-anti-scratch",
+                    "type": "products",
+                    "category": null,
+                    "category_slug": null,
+                    "category_name": null,
+                    "updated_at": "2023-12-13T00:32:11.000+02:00",
+                    "created_at": "2023-12-13T00:28:58.000+02:00",
+                    "published_at": "2023-12-13T00:32:10.000+02:00",
+                    "unpublish_at": null,
+                    "tags": [
+                        "acessories"
+                    ],
+                    "available_locales": [
+                        "en"
+                    ],
+                    "locale": "en",
+                    "targets": [],
+                    "private": false,
+                    "version_type": "editable",
+                    "author": {
+                        "name": "Sunny Mathews",
+                        "first_name": "Sunny",
+                        "last_name": "Mathews",
+                        "email": "sunny.mathews@ust.com",
+                        "avatar": null
+                    },
+                    "excerpt": ""
+                },
+                "fields": {
+                    "Description": "About this item\nApplicable models: the Dodge RAM 1500 2019 2020 2021 2022.\nFeatures: High sensitivity, 9H anti-scratch, high transparency, antibacterial technology, reduces fingerprints, waterproof, oil resistant, shatterproof, automatic adsorption.\nUltra thin and ultra-light: the thickness is only 0.23 mm, which provides a smoother feel and gives you the same feeling as the original screen.\nBox contents: protective film x 1, auxiliary tool (alcohol swab x 1, plastic suction cup x 1, microfibre cleaning cloth x 1, dust removal sticker x 1, installation instructions x 1)\nQuality control: check carefully before delivery. Don't worry. Please contact us if you have any questions. We will reply to you within 24 hours to ensure you are satisfied.",
+                    "Image": [
+                        {
+                            "uuid": "52cb5da0-6c9a-4360-a8e7-5fe8fa1dcbe3",
+                            "url": "https://cloud.modyocdn.com/uploads/52cb5da0-6c9a-4360-a8e7-5fe8fa1dcbe3/original/Dot.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Dot",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        }
+                    ],
+                    "Price": "20.09"
+                }
+            },
+            "status": "published",
+            "translated": true,
+            "type": "Content::Entry",
+            "slug": "gafat-d-odge-ram-1500-2019-2022-navigation-screen-protector-for-ram-1500-gps-touch-screen-9h-anti-scratch",
+            "publish_at": null,
+            "unpublish_at": null,
+            "last_published_date": "2023-12-13T00:32:10.000+02:00",
+            "category_path": null
+        },
+        {
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-13T00:31:59.000+02:00",
+            "unpublished_at": null,
+            "id": 136375,
+            "uuid": "ea014ded-adfc-4076-91e3-ef7e8cf626c8",
+            "space_id": 1450,
+            "name": "AirTag Holder Keyring Case 4 Pack, Air Tag Key Ring Tracker Keychain Compatible with Apple GPS Locator, Silicone iTag Item Finder Protective Cover Lightweight Key Fob Organizer",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": null,
+            "updated_at": "2023-12-13T00:31:59.000+02:00",
+            "tags": [
+                "acessories"
+            ],
+            "locale": "en",
+            "private": false,
+            "workflow": {
+                "id": 322777,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "field_values": [
+                {
+                    "id": 1932446,
+                    "field_id": 20246,
+                    "type": "text",
+                    "value": "Each package comes with 4 AirTag skin cases of different colors and 4 keychains. This key fob organizer can be well bundled with key, bag, backpack, diaper bag, luggage, suitcase, pocket, zipper, wallet, airpod, phone, vehicle, car, bike, water bottle, puppy, pet cat dog collar necklace and other stuff you want. Suitable for kids/toddlers/adults/elders/women/men/girls/boys, also fits Princess Cruise Medallion as gift for friends going to travel journey and trip."
+                },
+                {
+                    "id": 1932447,
+                    "field_id": 20245,
+                    "type": "decimal",
+                    "value": "9.99"
+                },
+                {
+                    "id": 1932448,
+                    "field_id": 20538,
+                    "type": "assets",
+                    "value": [
+                        {
+                            "id": 408527,
+                            "uuid": "dbe3025d-4d85-447c-a6ec-fc033979e253",
+                            "data_file_name": "airtag9_.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 48468,
+                            "url": "https://cloud.modyocdn.com/uploads/dbe3025d-4d85-447c-a6ec-fc033979e253/original/airtag9_.jpg",
+                            "created_at": "2023-12-13T00:31:33.000+02:00",
+                            "updated_at": "2023-12-13T00:31:33.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/dbe3025d-4d85-447c-a6ec-fc033979e253/C200x200/airtag9_.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Airtag9 ",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/dbe3025d-4d85-447c-a6ec-fc033979e253/original/airtag9_.jpg"
+                        }
+                    ]
+                }
+            ],
+            "excerpt": "",
+            "targets": [],
+            "restriction_enabled": false,
+            "blocked": false,
+            "review_enabled": false,
+            "dirty": false,
+            "json": {
+                "meta": {
+                    "uuid": "ea014ded-adfc-4076-91e3-ef7e8cf626c8",
+                    "space": "ustretail",
+                    "name": "AirTag Holder Keyring Case 4 Pack, Air Tag Key Ring Tracker Keychain Compatible with Apple GPS Locator, Silicone iTag Item Finder Protective Cover Lightweight Key Fob Organizer",
+                    "slug": "airtag-holder-keyring-case-4-pack-air-tag-key-ring-tracker-keychain-compatible-with-apple-gps-locator-silicone-itag-item-finder-protective-cover-lightweight-key-fob-organizer",
+                    "type": "products",
+                    "category": null,
+                    "category_slug": null,
+                    "category_name": null,
+                    "updated_at": "2023-12-13T00:31:59.000+02:00",
+                    "created_at": "2023-12-13T00:30:53.000+02:00",
+                    "published_at": "2023-12-13T00:31:59.000+02:00",
+                    "unpublish_at": null,
+                    "tags": [
+                        "acessories"
+                    ],
+                    "available_locales": [
+                        "en"
+                    ],
+                    "locale": "en",
+                    "targets": [],
+                    "private": false,
+                    "version_type": "editable",
+                    "author": {
+                        "name": "Sunny Mathews",
+                        "first_name": "Sunny",
+                        "last_name": "Mathews",
+                        "email": "sunny.mathews@ust.com",
+                        "avatar": null
+                    },
+                    "excerpt": ""
+                },
+                "fields": {
+                    "Description": "Each package comes with 4 AirTag skin cases of different colors and 4 keychains. This key fob organizer can be well bundled with key, bag, backpack, diaper bag, luggage, suitcase, pocket, zipper, wallet, airpod, phone, vehicle, car, bike, water bottle, puppy, pet cat dog collar necklace and other stuff you want. Suitable for kids/toddlers/adults/elders/women/men/girls/boys, also fits Princess Cruise Medallion as gift for friends going to travel journey and trip.",
+                    "Image": [
+                        {
+                            "uuid": "dbe3025d-4d85-447c-a6ec-fc033979e253",
+                            "url": "https://cloud.modyocdn.com/uploads/dbe3025d-4d85-447c-a6ec-fc033979e253/original/airtag9_.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Airtag9 ",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        }
+                    ],
+                    "Price": "9.99"
+                }
+            },
+            "status": "published",
+            "translated": true,
+            "type": "Content::Entry",
+            "slug": "airtag-holder-keyring-case-4-pack-air-tag-key-ring-tracker-keychain-compatible-with-apple-gps-locator-silicone-itag-item-finder-protective-cover-lightweight-key-fob-organizer",
+            "publish_at": null,
+            "unpublish_at": null,
+            "last_published_date": "2023-12-13T00:31:59.000+02:00",
+            "category_path": null
+        },
+        {
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-13T00:27:37.000+02:00",
+            "unpublished_at": null,
+            "id": 136370,
             "uuid": "6f16b99f-5d6b-4463-ac09-65a945ce86d6",
             "space_id": 1450,
             "name": "perfume Oil",
@@ -246,8 +941,10 @@
                 "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
             },
             "category_id": 5062,
-            "updated_at": "2023-12-07T10:24:35.000+02:00",
-            "tags": [],
+            "updated_at": "2023-12-13T00:27:37.000+02:00",
+            "tags": [
+                "fragrances"
+            ],
             "locale": "en",
             "private": false,
             "workflow": {
@@ -274,19 +971,19 @@
             },
             "field_values": [
                 {
-                    "id": 1912186,
+                    "id": 1932431,
                     "field_id": 20246,
                     "type": "text",
                     "value": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil"
                 },
                 {
-                    "id": 1912187,
+                    "id": 1932432,
                     "field_id": 20245,
                     "type": "decimal",
                     "value": "34.0"
                 },
                 {
-                    "id": 1912188,
+                    "id": 1932433,
                     "field_id": 20538,
                     "type": "assets",
                     "value": [
@@ -369,11 +1066,13 @@
                     "category": "perfumes",
                     "category_slug": "perfumes",
                     "category_name": "Perfumes",
-                    "updated_at": "2023-12-07T10:24:35.000+02:00",
+                    "updated_at": "2023-12-13T00:27:37.000+02:00",
                     "created_at": "2023-12-05T22:31:54.000+02:00",
-                    "published_at": "2023-12-07T10:24:35.000+02:00",
+                    "published_at": "2023-12-13T00:27:37.000+02:00",
                     "unpublish_at": null,
-                    "tags": [],
+                    "tags": [
+                        "fragrances"
+                    ],
                     "available_locales": [
                         "en"
                     ],
@@ -391,7 +1090,6 @@
                     "excerpt": ""
                 },
                 "fields": {
-                    "Price": "34.0",
                     "Description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
                     "Image": [
                         {
@@ -412,7 +1110,8 @@
                             "alt_text": null,
                             "tags": []
                         }
-                    ]
+                    ],
+                    "Price": "34.0"
                 }
             },
             "status": "published",
@@ -421,15 +1120,15 @@
             "slug": "perfume-oil",
             "publish_at": null,
             "unpublish_at": null,
-            "last_published_date": "2023-12-07T10:24:35.000+02:00",
+            "last_published_date": "2023-12-13T00:27:37.000+02:00",
             "category_path": "perfumes"
         },
         {
             "published": true,
             "scheduled": false,
-            "published_at": "2023-12-07T10:23:45.000+02:00",
+            "published_at": "2023-12-13T00:26:50.000+02:00",
             "unpublished_at": null,
-            "id": 135012,
+            "id": 136369,
             "uuid": "41c00f2f-57fb-4a32-876b-fd5c7879ea47",
             "space_id": 1450,
             "name": "Samsung Universe 9",
@@ -440,8 +1139,10 @@
                 "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
             },
             "category_id": 5063,
-            "updated_at": "2023-12-07T10:23:45.000+02:00",
-            "tags": [],
+            "updated_at": "2023-12-13T00:26:50.000+02:00",
+            "tags": [
+                "android"
+            ],
             "locale": "en",
             "private": false,
             "workflow": {
@@ -468,19 +1169,19 @@
             },
             "field_values": [
                 {
-                    "id": 1912182,
+                    "id": 1932428,
                     "field_id": 20246,
                     "type": "text",
                     "value": "Samsung's new variant which goes beyond Galaxy to the Universe"
                 },
                 {
-                    "id": 1912183,
+                    "id": 1932429,
                     "field_id": 20245,
                     "type": "decimal",
                     "value": "33.0"
                 },
                 {
-                    "id": 1912184,
+                    "id": 1932430,
                     "field_id": 20538,
                     "type": "assets",
                     "value": [
@@ -563,11 +1264,13 @@
                     "category": "mobile",
                     "category_slug": "mobile",
                     "category_name": "Mobile",
-                    "updated_at": "2023-12-07T10:23:45.000+02:00",
+                    "updated_at": "2023-12-13T00:26:50.000+02:00",
                     "created_at": "2023-11-22T21:01:15.000+02:00",
-                    "published_at": "2023-12-07T10:23:45.000+02:00",
+                    "published_at": "2023-12-13T00:26:50.000+02:00",
                     "unpublish_at": null,
-                    "tags": [],
+                    "tags": [
+                        "android"
+                    ],
                     "available_locales": [
                         "en"
                     ],
@@ -585,7 +1288,6 @@
                     "excerpt": ""
                 },
                 "fields": {
-                    "Price": "33.0",
                     "Description": "Samsung's new variant which goes beyond Galaxy to the Universe",
                     "Image": [
                         {
@@ -606,7 +1308,8 @@
                             "alt_text": null,
                             "tags": []
                         }
-                    ]
+                    ],
+                    "Price": "33.0"
                 }
             },
             "status": "published",
@@ -615,209 +1318,15 @@
             "slug": "samsung-universe-9",
             "publish_at": null,
             "unpublish_at": null,
-            "last_published_date": "2023-12-07T10:23:45.000+02:00",
+            "last_published_date": "2023-12-13T00:26:50.000+02:00",
             "category_path": "mobile"
         },
         {
             "published": true,
             "scheduled": false,
-            "published_at": "2023-12-07T10:23:19.000+02:00",
+            "published_at": "2023-12-13T00:26:33.000+02:00",
             "unpublished_at": null,
-            "id": 135011,
-            "uuid": "38838e11-cbcc-4e62-bd03-7033c1400a22",
-            "space_id": 1450,
-            "name": "iPhone 9",
-            "content_type_id": 4025,
-            "type_name": "Products",
-            "user": {
-                "name": "Sunny Mathews",
-                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
-            },
-            "category_id": 5063,
-            "updated_at": "2023-12-07T10:23:19.000+02:00",
-            "tags": [],
-            "locale": "en",
-            "private": false,
-            "workflow": {
-                "id": 318272,
-                "current_state": "draft",
-                "approved": false,
-                "reviewing": false,
-                "editing": true,
-                "schedule": false,
-                "review_enabled": false,
-                "archived": false,
-                "application": {
-                    "id": 1450,
-                    "name": "ustretail",
-                    "team_review": false,
-                    "approvals_quantity": 1,
-                    "locked_review": false,
-                    "enforced_review": false,
-                    "enforce_all_review": false,
-                    "application_type": "space"
-                },
-                "author_id": 1499417,
-                "element_type": "entry"
-            },
-            "field_values": [
-                {
-                    "id": 1912178,
-                    "field_id": 20246,
-                    "type": "text",
-                    "value": "An apple mobile which is nothing like apple"
-                },
-                {
-                    "id": 1912179,
-                    "field_id": 20245,
-                    "type": "decimal",
-                    "value": "549.0"
-                },
-                {
-                    "id": 1912180,
-                    "field_id": 20538,
-                    "type": "assets",
-                    "value": [
-                        {
-                            "id": 408392,
-                            "uuid": "ce5b4faf-70a7-477a-8830-3ac894dcc513",
-                            "data_file_name": "refurb-iphone-13-pro-max-graphite-2023.jpg",
-                            "user": {
-                                "avatar": {
-                                    "file_name": null,
-                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
-                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
-                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
-                                },
-                                "name": "Sunny Mathews",
-                                "first_name": "Sunny",
-                                "last_name": "Mathews"
-                            },
-                            "data_content_type": "image/jpeg",
-                            "data_file_size": 111403,
-                            "url": "https://cloud.modyocdn.com/uploads/ce5b4faf-70a7-477a-8830-3ac894dcc513/original/refurb-iphone-13-pro-max-graphite-2023.jpg",
-                            "created_at": "2023-12-07T10:22:32.000+02:00",
-                            "updated_at": "2023-12-07T10:22:32.000+02:00",
-                            "thumb": "https://cloud.modyocdn.com/uploads/ce5b4faf-70a7-477a-8830-3ac894dcc513/C200x200/refurb-iphone-13-pro-max-graphite-2023.jpg",
-                            "type": "image/jpeg",
-                            "tags": [],
-                            "title": "Refurb Iphone 13 Pro Max Graphite 2023",
-                            "description": null,
-                            "alt_text": null,
-                            "account_id": 1678,
-                            "asset": null,
-                            "link": "https://cloud.modyocdn.com/uploads/ce5b4faf-70a7-477a-8830-3ac894dcc513/original/refurb-iphone-13-pro-max-graphite-2023.jpg"
-                        },
-                        {
-                            "id": 408393,
-                            "uuid": "3179b2bc-2a55-4c6e-8727-6dc9b2bce341",
-                            "data_file_name": "refurb-iphone-13-pro-max-blue-2023.jpg",
-                            "user": {
-                                "avatar": {
-                                    "file_name": null,
-                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
-                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
-                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
-                                },
-                                "name": "Sunny Mathews",
-                                "first_name": "Sunny",
-                                "last_name": "Mathews"
-                            },
-                            "data_content_type": "image/jpeg",
-                            "data_file_size": 120317,
-                            "url": "https://cloud.modyocdn.com/uploads/3179b2bc-2a55-4c6e-8727-6dc9b2bce341/original/refurb-iphone-13-pro-max-blue-2023.jpg",
-                            "created_at": "2023-12-07T10:22:32.000+02:00",
-                            "updated_at": "2023-12-07T10:22:32.000+02:00",
-                            "thumb": "https://cloud.modyocdn.com/uploads/3179b2bc-2a55-4c6e-8727-6dc9b2bce341/C200x200/refurb-iphone-13-pro-max-blue-2023.jpg",
-                            "type": "image/jpeg",
-                            "tags": [],
-                            "title": "Refurb Iphone 13 Pro Max Blue 2023",
-                            "description": null,
-                            "alt_text": null,
-                            "account_id": 1678,
-                            "asset": null,
-                            "link": "https://cloud.modyocdn.com/uploads/3179b2bc-2a55-4c6e-8727-6dc9b2bce341/original/refurb-iphone-13-pro-max-blue-2023.jpg"
-                        }
-                    ]
-                }
-            ],
-            "excerpt": "",
-            "targets": [],
-            "restriction_enabled": false,
-            "blocked": false,
-            "review_enabled": false,
-            "dirty": false,
-            "json": {
-                "meta": {
-                    "uuid": "38838e11-cbcc-4e62-bd03-7033c1400a22",
-                    "space": "ustretail",
-                    "name": "iPhone 9",
-                    "slug": "iphone-9",
-                    "type": "products",
-                    "category": "mobile",
-                    "category_slug": "mobile",
-                    "category_name": "Mobile",
-                    "updated_at": "2023-12-07T10:23:19.000+02:00",
-                    "created_at": "2023-11-22T21:51:49.000+02:00",
-                    "published_at": "2023-12-07T10:23:19.000+02:00",
-                    "unpublish_at": null,
-                    "tags": [],
-                    "available_locales": [
-                        "en"
-                    ],
-                    "locale": "en",
-                    "targets": [],
-                    "private": false,
-                    "version_type": "editable",
-                    "author": {
-                        "name": "Sunny Mathews",
-                        "first_name": "Sunny",
-                        "last_name": "Mathews",
-                        "email": "sunny.mathews@ust.com",
-                        "avatar": null
-                    },
-                    "excerpt": ""
-                },
-                "fields": {
-                    "Price": "549.0",
-                    "Description": "An apple mobile which is nothing like apple",
-                    "Image": [
-                        {
-                            "uuid": "ce5b4faf-70a7-477a-8830-3ac894dcc513",
-                            "url": "https://cloud.modyocdn.com/uploads/ce5b4faf-70a7-477a-8830-3ac894dcc513/original/refurb-iphone-13-pro-max-graphite-2023.jpg",
-                            "content_type": "image/jpeg",
-                            "title": "Refurb Iphone 13 Pro Max Graphite 2023",
-                            "description": null,
-                            "alt_text": null,
-                            "tags": []
-                        },
-                        {
-                            "uuid": "3179b2bc-2a55-4c6e-8727-6dc9b2bce341",
-                            "url": "https://cloud.modyocdn.com/uploads/3179b2bc-2a55-4c6e-8727-6dc9b2bce341/original/refurb-iphone-13-pro-max-blue-2023.jpg",
-                            "content_type": "image/jpeg",
-                            "title": "Refurb Iphone 13 Pro Max Blue 2023",
-                            "description": null,
-                            "alt_text": null,
-                            "tags": []
-                        }
-                    ]
-                }
-            },
-            "status": "published",
-            "translated": true,
-            "type": "Content::Entry",
-            "slug": "iphone-9",
-            "publish_at": null,
-            "unpublish_at": null,
-            "last_published_date": "2023-12-07T10:23:19.000+02:00",
-            "category_path": "mobile"
-        },
-        {
-            "published": true,
-            "scheduled": false,
-            "published_at": "2023-12-07T10:23:12.000+02:00",
-            "unpublished_at": null,
-            "id": 135010,
+            "id": 136368,
             "uuid": "7ebf46b4-aef0-4586-b9ae-bc884206583f",
             "space_id": 1450,
             "name": "iPhone X",
@@ -828,8 +1337,10 @@
                 "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
             },
             "category_id": 5063,
-            "updated_at": "2023-12-07T10:23:12.000+02:00",
-            "tags": [],
+            "updated_at": "2023-12-13T00:26:33.000+02:00",
+            "tags": [
+                "ios"
+            ],
             "locale": "en",
             "private": false,
             "workflow": {
@@ -856,19 +1367,19 @@
             },
             "field_values": [
                 {
-                    "id": 1912175,
+                    "id": 1932425,
                     "field_id": 20246,
                     "type": "text",
                     "value": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with"
                 },
                 {
-                    "id": 1912176,
+                    "id": 1932426,
                     "field_id": 20245,
                     "type": "decimal",
                     "value": "48.0"
                 },
                 {
-                    "id": 1912177,
+                    "id": 1932427,
                     "field_id": 20538,
                     "type": "assets",
                     "value": [
@@ -951,11 +1462,13 @@
                     "category": "mobile",
                     "category_slug": "mobile",
                     "category_name": "Mobile",
-                    "updated_at": "2023-12-07T10:23:12.000+02:00",
+                    "updated_at": "2023-12-13T00:26:33.000+02:00",
                     "created_at": "2023-11-22T16:46:15.000+02:00",
-                    "published_at": "2023-12-07T10:23:12.000+02:00",
+                    "published_at": "2023-12-13T00:26:33.000+02:00",
                     "unpublish_at": null,
-                    "tags": [],
+                    "tags": [
+                        "ios"
+                    ],
                     "available_locales": [
                         "en"
                     ],
@@ -973,7 +1486,6 @@
                     "excerpt": ""
                 },
                 "fields": {
-                    "Price": "48.0",
                     "Description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with",
                     "Image": [
                         {
@@ -994,7 +1506,8 @@
                             "alt_text": null,
                             "tags": []
                         }
-                    ]
+                    ],
+                    "Price": "48.0"
                 }
             },
             "status": "published",
@@ -1003,7 +1516,364 @@
             "slug": "iphone-x",
             "publish_at": null,
             "unpublish_at": null,
-            "last_published_date": "2023-12-07T10:23:12.000+02:00",
+            "last_published_date": "2023-12-13T00:26:33.000+02:00",
+            "category_path": "mobile"
+        },
+        {
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-13T00:26:20.000+02:00",
+            "unpublished_at": null,
+            "id": 136367,
+            "uuid": "38838e11-cbcc-4e62-bd03-7033c1400a22",
+            "space_id": 1450,
+            "name": "iPhone 9",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": 5063,
+            "updated_at": "2023-12-13T00:26:20.000+02:00",
+            "tags": [
+                "ios"
+            ],
+            "locale": "en",
+            "private": false,
+            "workflow": {
+                "id": 318272,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "field_values": [
+                {
+                    "id": 1932422,
+                    "field_id": 20246,
+                    "type": "text",
+                    "value": "An apple mobile which is nothing like apple"
+                },
+                {
+                    "id": 1932423,
+                    "field_id": 20245,
+                    "type": "decimal",
+                    "value": "549.0"
+                },
+                {
+                    "id": 1932424,
+                    "field_id": 20538,
+                    "type": "assets",
+                    "value": [
+                        {
+                            "id": 408392,
+                            "uuid": "ce5b4faf-70a7-477a-8830-3ac894dcc513",
+                            "data_file_name": "refurb-iphone-13-pro-max-graphite-2023.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 111403,
+                            "url": "https://cloud.modyocdn.com/uploads/ce5b4faf-70a7-477a-8830-3ac894dcc513/original/refurb-iphone-13-pro-max-graphite-2023.jpg",
+                            "created_at": "2023-12-07T10:22:32.000+02:00",
+                            "updated_at": "2023-12-07T10:22:32.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/ce5b4faf-70a7-477a-8830-3ac894dcc513/C200x200/refurb-iphone-13-pro-max-graphite-2023.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Refurb Iphone 13 Pro Max Graphite 2023",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/ce5b4faf-70a7-477a-8830-3ac894dcc513/original/refurb-iphone-13-pro-max-graphite-2023.jpg"
+                        },
+                        {
+                            "id": 408393,
+                            "uuid": "3179b2bc-2a55-4c6e-8727-6dc9b2bce341",
+                            "data_file_name": "refurb-iphone-13-pro-max-blue-2023.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 120317,
+                            "url": "https://cloud.modyocdn.com/uploads/3179b2bc-2a55-4c6e-8727-6dc9b2bce341/original/refurb-iphone-13-pro-max-blue-2023.jpg",
+                            "created_at": "2023-12-07T10:22:32.000+02:00",
+                            "updated_at": "2023-12-07T10:22:32.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/3179b2bc-2a55-4c6e-8727-6dc9b2bce341/C200x200/refurb-iphone-13-pro-max-blue-2023.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Refurb Iphone 13 Pro Max Blue 2023",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/3179b2bc-2a55-4c6e-8727-6dc9b2bce341/original/refurb-iphone-13-pro-max-blue-2023.jpg"
+                        }
+                    ]
+                }
+            ],
+            "excerpt": "",
+            "targets": [],
+            "restriction_enabled": false,
+            "blocked": false,
+            "review_enabled": false,
+            "dirty": false,
+            "json": {
+                "meta": {
+                    "uuid": "38838e11-cbcc-4e62-bd03-7033c1400a22",
+                    "space": "ustretail",
+                    "name": "iPhone 9",
+                    "slug": "iphone-9",
+                    "type": "products",
+                    "category": "mobile",
+                    "category_slug": "mobile",
+                    "category_name": "Mobile",
+                    "updated_at": "2023-12-13T00:26:20.000+02:00",
+                    "created_at": "2023-11-22T21:51:49.000+02:00",
+                    "published_at": "2023-12-13T00:26:20.000+02:00",
+                    "unpublish_at": null,
+                    "tags": [
+                        "ios"
+                    ],
+                    "available_locales": [
+                        "en"
+                    ],
+                    "locale": "en",
+                    "targets": [],
+                    "private": false,
+                    "version_type": "editable",
+                    "author": {
+                        "name": "Sunny Mathews",
+                        "first_name": "Sunny",
+                        "last_name": "Mathews",
+                        "email": "sunny.mathews@ust.com",
+                        "avatar": null
+                    },
+                    "excerpt": ""
+                },
+                "fields": {
+                    "Description": "An apple mobile which is nothing like apple",
+                    "Image": [
+                        {
+                            "uuid": "ce5b4faf-70a7-477a-8830-3ac894dcc513",
+                            "url": "https://cloud.modyocdn.com/uploads/ce5b4faf-70a7-477a-8830-3ac894dcc513/original/refurb-iphone-13-pro-max-graphite-2023.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Refurb Iphone 13 Pro Max Graphite 2023",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        },
+                        {
+                            "uuid": "3179b2bc-2a55-4c6e-8727-6dc9b2bce341",
+                            "url": "https://cloud.modyocdn.com/uploads/3179b2bc-2a55-4c6e-8727-6dc9b2bce341/original/refurb-iphone-13-pro-max-blue-2023.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Refurb Iphone 13 Pro Max Blue 2023",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        }
+                    ],
+                    "Price": "549.0"
+                }
+            },
+            "status": "published",
+            "translated": true,
+            "type": "Content::Entry",
+            "slug": "iphone-9",
+            "publish_at": null,
+            "unpublish_at": null,
+            "last_published_date": "2023-12-13T00:26:20.000+02:00",
+            "category_path": "mobile"
+        },
+        {
+            "published": true,
+            "scheduled": false,
+            "published_at": "2023-12-13T00:25:55.000+02:00",
+            "unpublished_at": null,
+            "id": 136366,
+            "uuid": "e54c71a9-9d19-4925-84b2-022d6029218f",
+            "space_id": 1450,
+            "name": "Samsung Galaxy",
+            "content_type_id": 4025,
+            "type_name": "Products",
+            "user": {
+                "name": "Sunny Mathews",
+                "url": "https://ustretail.modyo.cloud/admin/settings/admin_users/131239aa-d9ae-447b-b36f-afb0e586eb4d"
+            },
+            "category_id": 5063,
+            "updated_at": "2023-12-13T00:25:55.000+02:00",
+            "tags": [
+                "android"
+            ],
+            "locale": "en",
+            "private": false,
+            "workflow": {
+                "id": 322775,
+                "current_state": "draft",
+                "approved": false,
+                "reviewing": false,
+                "editing": true,
+                "schedule": false,
+                "review_enabled": false,
+                "archived": false,
+                "application": {
+                    "id": 1450,
+                    "name": "ustretail",
+                    "team_review": false,
+                    "approvals_quantity": 1,
+                    "locked_review": false,
+                    "enforced_review": false,
+                    "enforce_all_review": false,
+                    "application_type": "space"
+                },
+                "author_id": 1499417,
+                "element_type": "entry"
+            },
+            "field_values": [
+                {
+                    "id": 1932419,
+                    "field_id": 20246,
+                    "type": "text",
+                    "value": "Samsung's new variant which goes beyond Galaxy"
+                },
+                {
+                    "id": 1932420,
+                    "field_id": 20245,
+                    "type": "decimal",
+                    "value": "33.0"
+                },
+                {
+                    "id": 1932421,
+                    "field_id": 20538,
+                    "type": "assets",
+                    "value": [
+                        {
+                            "id": 408389,
+                            "uuid": "0bcdbaa2-82c2-4255-8c0b-f4c4953ecea3",
+                            "data_file_name": "download.jpg",
+                            "user": {
+                                "avatar": {
+                                    "file_name": null,
+                                    "url_original": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_small": "https://ustretail.modyo.cloud/assets/avatar/missing_C100x100.png",
+                                    "url_medium": "https://ustretail.modyo.cloud/assets/avatar/missing_C200x200.png"
+                                },
+                                "name": "Sunny Mathews",
+                                "first_name": "Sunny",
+                                "last_name": "Mathews"
+                            },
+                            "data_content_type": "image/jpeg",
+                            "data_file_size": 9510,
+                            "url": "https://cloud.modyocdn.com/uploads/0bcdbaa2-82c2-4255-8c0b-f4c4953ecea3/original/download.jpg",
+                            "created_at": "2023-12-07T10:22:31.000+02:00",
+                            "updated_at": "2023-12-07T10:22:31.000+02:00",
+                            "thumb": "https://cloud.modyocdn.com/uploads/0bcdbaa2-82c2-4255-8c0b-f4c4953ecea3/C200x200/download.jpg",
+                            "type": "image/jpeg",
+                            "tags": [],
+                            "title": "Download",
+                            "description": null,
+                            "alt_text": null,
+                            "account_id": 1678,
+                            "asset": null,
+                            "link": "https://cloud.modyocdn.com/uploads/0bcdbaa2-82c2-4255-8c0b-f4c4953ecea3/original/download.jpg"
+                        }
+                    ]
+                }
+            ],
+            "excerpt": "",
+            "targets": [],
+            "restriction_enabled": false,
+            "blocked": false,
+            "review_enabled": false,
+            "dirty": false,
+            "json": {
+                "meta": {
+                    "uuid": "e54c71a9-9d19-4925-84b2-022d6029218f",
+                    "space": "ustretail",
+                    "name": "Samsung Galaxy",
+                    "slug": "samsung-galaxy",
+                    "type": "products",
+                    "category": "mobile",
+                    "category_slug": "mobile",
+                    "category_name": "Mobile",
+                    "updated_at": "2023-12-13T00:25:55.000+02:00",
+                    "created_at": "2023-11-22T21:01:15.000+02:00",
+                    "published_at": "2023-12-13T00:25:55.000+02:00",
+                    "unpublish_at": null,
+                    "tags": [
+                        "android"
+                    ],
+                    "available_locales": [
+                        "en"
+                    ],
+                    "locale": "en",
+                    "targets": [],
+                    "private": false,
+                    "version_type": "editable",
+                    "author": {
+                        "name": "Sunny Mathews",
+                        "first_name": "Sunny",
+                        "last_name": "Mathews",
+                        "email": "sunny.mathews@ust.com",
+                        "avatar": null
+                    },
+                    "excerpt": ""
+                },
+                "fields": {
+                    "Description": "Samsung's new variant which goes beyond Galaxy",
+                    "Image": [
+                        {
+                            "uuid": "0bcdbaa2-82c2-4255-8c0b-f4c4953ecea3",
+                            "url": "https://cloud.modyocdn.com/uploads/0bcdbaa2-82c2-4255-8c0b-f4c4953ecea3/original/download.jpg",
+                            "content_type": "image/jpeg",
+                            "title": "Download",
+                            "description": null,
+                            "alt_text": null,
+                            "tags": []
+                        }
+                    ],
+                    "Price": "33.0"
+                }
+            },
+            "status": "published",
+            "translated": true,
+            "type": "Content::Entry",
+            "slug": "samsung-galaxy",
+            "publish_at": null,
+            "unpublish_at": null,
+            "last_published_date": "2023-12-13T00:25:55.000+02:00",
             "category_path": "mobile"
         }
     ]
